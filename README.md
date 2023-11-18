@@ -1,2 +1,2 @@
 # Group-6-
-pete 219 code
+This is the code repositry for the pete216 github project 
